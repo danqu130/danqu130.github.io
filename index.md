@@ -1,23 +1,30 @@
 ---
-layout: homepage
+layout: homepage_en
 ---
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Ph.D. candidate in Information Engineering, supervised by Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&view_op=list_works&sortby=pubdate) in NPU-CVR lab [(Lab website in Chinese)](http://npu-cvr.cn/) at Northwestern Polytechnical University ([NPU](http://en.nwpu.edu.cn/)), Xi'an, China. 
+Before that, I received B.E. degree in Computer Science at NPU, during which I participated in several student competitions and received the Outstanding Undergraduate Student and Outstanding Undergraduate Thesis awards. 
 
-## Research Interests
+My research lies at the intersection of **3D Vision** and **Low-Level Vision** -- with a special focus on **Event-based vision**. My research interests include motion estimation (optical flow and scene flow estimation), motion segmentation, motion deblurring, video frame generation (interpolation, reconstruction and prediction), etc. 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+<strong style="color:#e74d3c; font-weight:600">I am looking for a Visiting Ph.D. position. I would appreciate a ping if you see a position I might fit. </strong>
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/projects.md %}
+
+{% include_relative _includes/awards.md %}
+
+{% include_relative _includes/additional.md %}
+
+<!-- 
+## Contact
+**Address:** [xxx](https://www.google.com/maps/place/xxx)
+<br>
+**Office Location:** xxx &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** xx xxx 
+-->

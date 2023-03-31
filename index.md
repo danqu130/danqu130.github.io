@@ -4,7 +4,7 @@ layout: homepage_en
 
 ## About Me
 
-I am currently a Ph.D. candidate in Information Engineering, supervised by Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&view_op=list_works&sortby=pubdate) in NPU-CVR lab [(Lab website in Chinese)](http://npu-cvr.cn/) at Northwestern Polytechnical University ([NPU](http://en.nwpu.edu.cn/)), Xi'an, China. 
+I am currently a Ph.D. candidate in Information Engineering, supervised by Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&view_op=list_works&sortby=pubdate) in [NPU-CVR](http://npu-cvr.cn/) (website in Chinese) lab at Northwestern Polytechnical University ([NPU](http://en.nwpu.edu.cn/)), Xi'an, China. 
 Before that, I received B.E. degree in Computer Science at NPU, during which I participated in several student competitions and received the Outstanding Undergraduate Student and Outstanding Undergraduate Thesis awards. 
 
 My research lies at the intersection of **3D Vision** and **Low-Level Vision** -- with a special focus on **Event-based vision**. My research interests include motion estimation (optical flow and scene flow estimation), motion segmentation, motion deblurring, video frame generation (interpolation, reconstruction and prediction), etc. 

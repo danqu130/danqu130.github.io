@@ -1,7 +1,7 @@
 ## Selected Honors and Awards
 
 
-<table style="float:left;width:100%;">
+<table style="float:left;width:100%;border:none;">
   <tr>
     <td>First-Class Academic Scholarships for PhD Students in NPU</td>
     <td style="float:right">2020&2022</td>

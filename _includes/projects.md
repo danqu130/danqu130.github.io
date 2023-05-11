@@ -21,7 +21,7 @@
 </h4> 
 
 <ul style="margin:0 0 0;">
-  <li> <strong>Major contributor</strong> to won the championship in an Chinese AI Challenge. </li>
+  <li> <strong>Major contributor</strong> to won the championship in a Chinese AI Challenge. </li>
   <li>The task is to match two heterogeneous source images to obtain the position of a small optical image block in a large synthetic aperture radar (SAR) image. </li>
   <li>Our proposed network uses an attention mechanism and fast large kernel Fourier convolution and achieves <strong>first place in terms of speed and accuracy</strong>. </li>
 </ul>

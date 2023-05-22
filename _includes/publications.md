@@ -18,8 +18,9 @@
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_Joint_Appearance_and_Motion_Learning_for_Efficient_Rolling_Shutter_Correction_CVPR_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Fan_Joint_Appearance_and_CVPR_2023_supplemental.zip" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Fan_Joint_Appearance_and_CVPR_2023_supplemental.zip" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp</a>
+      <a href="https://github.com/GitCVfb/JAMNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="assets/bib/Fan_JAMNet_CVPR_2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
       <!-- <strong><i style="color:#e74d3c">Waiting for update</i></strong> -->
     </div>  

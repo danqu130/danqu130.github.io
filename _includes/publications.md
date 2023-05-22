@@ -17,11 +17,11 @@
     <div class="author">Bin Fan, Yuxin Mao, Yuchao Dai, <strong>Zhexiong Wan</strong>, Qi Liu</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_Joint_Appearance_and_Motion_Learning_for_Efficient_Rolling_Shutter_Correction_CVPR_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Fan_Joint_Appearance_and_CVPR_2023_supplemental.zip" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
-      <strong><i style="color:#e74d3c">Waiting for update</i></strong>
+      <a href="assets/bib/Fan_JAMNet_CVPR_2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <!-- <strong><i style="color:#e74d3c">Waiting for update</i></strong> -->
     </div>  
   </div>
 </div>
@@ -45,7 +45,6 @@
       <a href="https://github.com/danqu130/DCEIFlow" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://npucvr.github.io/DCEIFlow/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="assets/bib/Wan_DCEIFlow_TIP_2022.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>  
   </div>
 </div>
@@ -68,7 +67,6 @@
       <a href="https://github.com/fupiao1998/IdemDeblur" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://npucvr.github.io/IdemDeblur/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="assets/bib/Mao_IdemDeblur_TCSVT_2022.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>  
   </div>
 </div>
@@ -91,7 +89,6 @@
       <a href="https://github.com/fupiao1998/TransformerSOD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://npucvr.github.io/xx/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="assets/bib/Mao_SOD_arXiv_2021.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
 </div>

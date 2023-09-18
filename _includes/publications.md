@@ -7,19 +7,44 @@
 <li>
 <div class="pub-row">
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
-  </div> -->
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/teaser/5_rpeflow.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
+  </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="link">Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction</a></div>
-    <div class="author">Bin Fan, Yuxin Mao, Yuchao Dai, <strong>Zhexiong Wan</strong>, Qi Liu</div>
+    <div class="title"><a href="">RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation</a></div>
+    <div class="author"><strong>Zhexiong Wan</strong>, Yuxin Mao, Jing Zhang, Yuchao Dai</div>
+    <div class="periodical"><em>IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/danqu130/RPEFlow/releases/download/supp/RPEFlow-supp.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp</a>
+      <a href="https://github.com/danqu130/RPEFlow" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://npucvr.github.io/RPEFlow/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="assets/bib/Wan_RPEFlow_ICCV_2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <strong><i style="color:#e74d3c">Waiting for updates</i></strong>
+    </div>  
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/teaser/4_jamnet.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2023/html/Fan_Joint_Appearance_and_Motion_Learning_for_Efficient_Rolling_Shutter_Correction_CVPR_2023_paper.html">Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction</a></div>
+    <div class="author">Bin Fan*, Yuxin Mao*, Yuchao Dai, <strong>Zhexiong Wan</strong>, Qi Liu</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_Joint_Appearance_and_Motion_Learning_for_Efficient_Rolling_Shutter_Correction_CVPR_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Fan_Joint_Appearance_and_CVPR_2023_supplemental.zip" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp</a>
       <a href="https://github.com/GitCVfb/JAMNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.youtube.com/watch?v=oAozS6qEDjE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="assets/bib/Fan_JAMNet_CVPR_2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
       <!-- <strong><i style="color:#e74d3c">Waiting for update</i></strong> -->

@@ -3,7 +3,7 @@
 <h4>
   <table style="float:left;width:100%;margin:0 0 0"><tr>
     <td>3D Dynamic Perception using Neuromorphic Vision Sensor</td>
-    <td style="float:right">Jan. 2021 -- Present</td>
+    <td style="float:right">Jan. 2021 -- Dec. 2022</td>
   </tr></table>
 </h4> 
 

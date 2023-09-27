@@ -8,21 +8,44 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/teaser/6_cpflow.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Continuous Parametric Optical Flow</a></div>
+    <div class="author">Jianqin Luo*, <strong>Zhexiong Wan</strong>*, Yuxin Mao, Bo Li, Yuchao Dai (* equal contribution)</div>
+    <div class="periodical"><em>Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="assets/bib/Luo_CPFlow_NeurIPS_2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <strong><i style="color:#e74d3c">Waiting for updates</i></strong>
+    </div>  
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/teaser/5_rpeflow.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2309.15082.pdf">RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation</a></div>
     <div class="author"><strong>Zhexiong Wan</strong>, Yuxin Mao, Jing Zhang, Yuchao Dai</div>
     <div class="periodical"><em>IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2309.15082.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/danqu130/RPEFlow/releases/download/supp/RPEFlow-supp.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp</a>
       <a href="https://github.com/danqu130/RPEFlow" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://npucvr.github.io/RPEFlow/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="assets/bib/Wan_RPEFlow_ICCV_2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
-      <strong><i style="color:#e74d3c">Waiting for updates</i></strong>
+      <!-- <strong><i style="color:#e74d3c">Waiting for updates</i></strong> -->
     </div>  
   </div>
 </div>

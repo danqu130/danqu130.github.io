@@ -1,6 +1,7 @@
 ## News
 
 <ul>
+  <li><strong>[Sep. 2023]</strong> One paper about parametric optical flow is accepted to NeurIPS 2023.</li>
   <li><strong>[Jul. 2023]</strong> One paper about scene flow estimation with event camera is accepted to ICCV 2023. Thanks to the collaborators!</li>
   <li><strong>[Feb. 2023]</strong> One paper about frame correction with rolling shutter camera is accepted to CVPR 2023.</li>
   <li><strong>[Nov. 2022]</strong> One paper about optical flow estimation with event camera is accepted to TIP 2022.</li>

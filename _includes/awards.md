@@ -4,12 +4,12 @@
 <table style="float:left;width:100%;border:none;">
 
   <tr>
-    <td>2nd place of Optical Flow track in the <a href="http://www.robustvision.net/rvc2020.php" target="_blank">ECCV 2020 Robust Vision Challenge  </a></td>
-    <td style="float:right">2022</td>
-  </tr>
-  <tr>
     <td>First-Class Academic Scholarships for PhD Students in NPU</td>
     <td style="float:right">2020&2022</td>
+  </tr>
+  <tr>
+    <td>2nd place of Optical Flow track in the <a href="http://www.robustvision.net/rvc2020.php" target="_blank">ECCV 2020 Robust Vision Challenge  </a></td>
+    <td style="float:right">2020</td>
   </tr>
   <tr>
     <td>First-Class & <a href="https://www.robomaster.com/en-US/resource/pages/announcement/1035">Outstanding Advisor</a> of <a href="https://www.robomaster.com/en-US/robo/overview">RoboMaster</a> University Championship </td>

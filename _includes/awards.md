@@ -4,7 +4,7 @@
 <table style="float:left;width:100%;border:none;">
 
   <tr>
-    <td>2nd place of VFI track in the <a href="https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af6ccc4a0ed647faca76ee" target="_blank"> 2023 GBA International Algorithmic Case Competition</a> </td>
+    <td>2nd place of VFI track in the <a href="https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af6ccc4a0ed647faca76ee" target="_blank"> 2023 The Greater Bay Area International Algorithm Case Competition</a> </td>
     <td style="float:right">2023</td>
   </tr>
   <tr>

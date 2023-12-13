@@ -8,20 +8,43 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/teaser/7_eivfp.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Video Frame Prediction from a Single Image and Events</a></div>
+    <div class="author">Juanjuan Zhu*, <strong>Zhexiong Wan</strong>*, Yuchao Dai (* equal contribution)</div>
+    <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="assets/bib/Zhu_EIVFP_AAAI_2024.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <strong><i style="color:#e74d3c">Waiting for updates</i></strong>
+    </div>  
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/teaser/6_cpflow.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Continuous Parametric Optical Flow</a></div>
+    <div class="title"><a href="https://openreview.net/pdf?id=ZZgfS1DbmO">Continuous Parametric Optical Flow</a></div>
     <div class="author">Jianqin Luo*, <strong>Zhexiong Wan</strong>*, Yuxin Mao, Bo Li, Yuchao Dai (* equal contribution)</div>
     <div class="periodical"><em>Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://openreview.net/pdf?id=ZZgfS1DbmO" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/LuoRadisher/CPFlow" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://npucvr.github.io/CPFlow/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="assets/bib/Luo_CPFlow_NeurIPS_2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
-      <strong><i style="color:#e74d3c">Waiting for updates</i></strong>
+      <!-- <strong><i style="color:#e74d3c">Waiting for updates</i></strong> -->
     </div>  
   </div>
 </div>

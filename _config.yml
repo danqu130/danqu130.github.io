@@ -5,20 +5,21 @@ position: Ph.D. Candidate
 affiliation: Northwestern Polytechnical University, Xi'an, China
 affiliation_link: https://en.nwpu.edu.cn/
 email: wanzhexiong@mail.nwpu.edu.cn 
-email2: zhexiongwan@gmail.com
-email_text: wanzhexiong (at) mail.nwpu.edu.cn 
+# email: zhexiongwan@gmail.com
+email_text: wanzhexiong (at) mail.nwpu.edu.cn
+wechat_id: wanzhexiong
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: zhexiong wan, zhexiongwan, wanzhexiong, wan zhexiong, 万哲雄
-description: Academic personal homepage for Zhexiong Wan.
+description: Personal academic homepage of Mr. Zhexiong Wan.
 canonical: https://danquxunhuan.cn
 
 # Links 
 homepage: https://danquxunhuan.cn
 # cv_link: assets/files/curriculum_vitae.pdf
 google_scholar: https://scholar.google.com/citations?user=rgjSWLkAAAAJ
-# orcid: https://orcid.org/0000-0002-4494-6178
+orcid: https://orcid.org/0000-0002-4494-6178
 github_link: https://github.com/danqu130
 
 # Images (e.g., your profile picture and your website's favicon) 

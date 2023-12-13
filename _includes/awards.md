@@ -8,7 +8,7 @@
     <td style="float:right">2023</td>
   </tr>
   <tr>
-    <td>The Innovation Foundation for Doctor Dissertation of NPU (CX2023013)</td>
+    <td>The Innovation Foundation for Doctor Dissertation of NPU</td>
     <td style="float:right">2023</td>
   </tr>
   <tr>

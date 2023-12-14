@@ -1,7 +1,8 @@
 ## News
 
 <ul>
-  <li><strong>[Sep. 2023]</strong> One paper about video frame prediction with event camera is accepted to AAAI 2024. Congratulations to the collaborators!</li>
+  <li><strong>[Dec. 2023]</strong> One paper about video frame prediction with event camera is accepted to AAAI 2024. Congratulations to the collaborators!</li>
+  <li><strong>[Dec. 2023]</strong> We won the 2nd place of VFI track in the <a href="https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af6ccc4a0ed647faca76ee" target="_blank"> 2023 The Greater Bay Area International Algorithm Case Competition</a> . Congratulations to the collaborators! </li>
   <li><strong>[Sep. 2023]</strong> One paper about parametric optical flow is accepted to NeurIPS 2023. Congratulations to the collaborators!</li>
   <li><strong>[Jul. 2023]</strong> One paper about scene flow estimation with event camera is accepted to ICCV 2023. Thanks to the collaborators!</li>
 

@@ -109,7 +109,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2211.09078">Learning Dense and Continuous Optical Flow from an Event Camera</a></div>
-    <div class="author"><strong>Zhexiong Wan</strong>, Yuxin Mao, Yuchao Dai</div>
+    <div class="author"><strong>Zhexiong Wan</strong>, Yuchao Dai, Yuxin Mao</div>
     <div class="periodical"><em>IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2022.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2211.09078" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

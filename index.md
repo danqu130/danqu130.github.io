@@ -4,10 +4,12 @@ layout: homepage_en
 
 ## About Me
 
-I am currently a Ph.D. candidate in Information Engineering, supervised by Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&view_op=list_works&sortby=pubdate) in [NPU-CVR](http://npu-cvr.cn/) (website in Chinese) lab at Northwestern Polytechnical University ([NPU](http://en.nwpu.edu.cn/)), Xi'an, China. 
+I am currently a Ph.D. candidate in Information Engineering, supervised by Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&view_op=list_works&sortby=pubdate) in [NPU-CVR](http://npu-cvr.cn/) (website in Chinese) lab at Northwestern Polytechnical University ([NPU](http://en.nwpu.edu.cn/)), Xi'an, China.
+I am currently a visiting PhD student at National University of Singapore ([NUS](https://www.nus.edu.sg/)) under the supervision of Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
+
 Before that, I received B.E. degree in Computer Science at NPU in 2019, during which I participated in several student competitions and received the Outstanding Undergraduate Student and Outstanding Undergraduate Thesis awards. 
 
-My research lies at the intersection of **3D Vision** and **Low-Level Vision** -- with a special focus on **Event-based vision**. My research interests include motion estimation (optical flow and scene flow estimation), motion segmentation, motion deblurring, video frame generation (interpolation, reconstruction and prediction), etc. 
+My research lies at the intersection of **Low-Level Vision** and **3D Vision**, with a special focus on **Event-based vision**. My research interests include motion estimation (optical flow and scene flow estimation), motion segmentation, motion deblurring, video frame generation (interpolation, reconstruction and prediction), etc. 
 
 
 <strong style="color:#e74d3c; font-weight:600">I expect to be on the job market in 2025. I would appreciate a ping if you see a position I might fit. </strong>

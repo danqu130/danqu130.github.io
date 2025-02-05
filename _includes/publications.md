@@ -129,6 +129,28 @@
 </li>
 
 <li>
+<div class="pub-row highlight-paper">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/teaser/1_praflow_rvc.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCVW 2020</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2009.06360">PRAFlow_RVC: Pyramid Recurrent All-Pairs Field Transforms for Optical Flow Estimation in Robust Vision Challenge</a></div>
+    <div class="author"><strong>Zhexiong Wan</strong>, Yuxin Mao, Yuchao Dai</div>
+    <div class="periodical"><em>ECCV workshop, Robust Vision Challenge 2020.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2009.06360" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://youtu.be/5iDvq0wE9r4?t=2769" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Live</a>
+      <a href="http://www.robustvision.net/rvc2020.php" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Leaderboard</a>
+      <!-- <a href="https://npucvr.github.io/xx/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <!-- <a href="assets/bib/Wan_PRAFlow_RVC_arXiv_2020.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>  -->
+      <strong><i style="color:#e74d3c">2nd place of Optical Flow track</i></strong>
+    </div>  
+  </div>
+</div>
+</li>
+
+<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/teaser/8_UniVR.jpg" class="teaser img-fluid z-depth-1">
@@ -191,31 +213,6 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/teaser/1_praflow_rvc.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ECCVW 2020</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2009.06360">PRAFlow_RVC: Pyramid Recurrent All-Pairs Field Transforms for Optical Flow Estimation in Robust Vision Challenge</a></div>
-    <div class="author"><strong>Zhexiong Wan</strong>, Yuxin Mao, Yuchao Dai</div>
-    <div class="periodical"><em>ECCV workshop, Robust Vision Challenge 2020.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2009.06360" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://youtu.be/5iDvq0wE9r4?t=2769" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Live</a>
-      <a href="http://www.robustvision.net/rvc2020.php" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Leaderboard</a>
-      <!-- <a href="https://npucvr.github.io/xx/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <!-- <a href="assets/bib/Wan_PRAFlow_RVC_arXiv_2020.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>  -->
-      <strong><i style="color:#e74d3c">2nd place of Optical Flow track</i></strong>
-    </div>  
-  </div>
-</div>
-</li>
-
 <br>
-
 </ol>
 </div>
